@@ -42,3 +42,19 @@ p
 	font-size: 20px;
 	margin-bottom: 30px;
 }
+
+.bouton
+{	
+	width: 100px;
+	background-color: orange;
+	border:none;
+	color: white;
+	padding: 5px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 25px;
+	margin: 8px 2px;
+	border-radius: 0.5rem;
+	flex-direction: column;
+}
